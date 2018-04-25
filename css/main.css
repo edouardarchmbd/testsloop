@@ -445,7 +445,7 @@ p {
 }
 
 [data-overlay-dark]:before {
-  background: #52439e;
+  background: #f36052;
 }
 
 [data-overlay-light]:before {

@@ -228,6 +228,14 @@ body {
   text-align: right;
 }
 
+.adresse span {
+  color: #f36052
+}
+
+.adresse h4 {
+  color: #52439e
+}
+
 /* -------------------------------------------------------
                      Icons 
 -------------------------------------------------------- */
@@ -241,6 +249,14 @@ body {
 
 .icon-sm {
   font-size: 25px;
+}
+
+.header .buton-bg-color {
+  background-color: #52439e
+}
+
+.header .buton-bg-color:hover {
+  background-color: #f36052
 }
 
 
@@ -266,6 +282,11 @@ body {
 
 .section-padding span {
   font-weight: 700;
+}
+
+.section-padding .buton-bg-color:hover {
+  background-color: white;
+  color: #f36052;
 }
 
 .section-padding strong {
@@ -296,7 +317,7 @@ body {
 
 .section-padding h4 {
   font-weight: 500;
-  color: #8b8b8b;
+  color: white;
 }
 
 
@@ -320,7 +341,7 @@ body {
 }
 
 .order-services {
-  background-color: #f7f7f7;
+  background-color: #52439e;
 }
 
 /* -------------------------------------------------------
@@ -482,7 +503,12 @@ nav.navbar.nav-scroll .navbar-toggle {
   position: relative;
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
   overflow: hidden;
+  margin: 0 auto;
+  background-image:url(../img/bg10.jpg);
+  background-repeat:no-repeat;
+  background-color: white;
 }
 .header .container {
   position: static;
@@ -689,7 +715,8 @@ nav.navbar.nav-scroll .navbar-toggle {
   bottom: 15px;
 }
 .portfolio .item-img-overlay {
-  padding: 50px;
+  padding: 20px;
+  padding-top: 30px;
   width: 90%;
   margin-left: 5%;
   text-align: center;
@@ -1106,12 +1133,19 @@ color: #fff;
   letter-spacing: 1px;
 }
 .footer-dark .social span {
-  color: #555;
+  color: white;
   margin: 0 10px;
 }
 .footer-dark .copy {
   margin-top: 10px;
   font-size: 11px !important;
+}
+
+.social img {
+  width: 8%;
+  margin-top: 16px;
+  margin-right: 16px;
+  margin-bottom: 10px
 }
 
 /* -------------------------------------------------------
