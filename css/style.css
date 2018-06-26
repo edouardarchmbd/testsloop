@@ -283,6 +283,7 @@ body {
   font-size: 20px;
 }
 
+
 /* -------------------------------------------------------
                      Icons 
 -------------------------------------------------------- */
@@ -312,18 +313,21 @@ body {
   font-weight: 800;
   color: #514298;
   font-family: 'Raleway';
+  line-height: 100px;
+  text-transform: uppercase;
 }
 
 .header .parallax2 .item h1 span {
-  font-size: 119px;
+  font-size: 116px;
   font-weight: 800;
   color: #e6322b;
 }
 
 .header .parallax2 .item h1 strong {
-  font-size: 148px;
+  font-size: 153px;
   font-weight: 800;
   color: #e6322b;
+  line-height: 148px;
 }
 
 .section-padding h2 span {
@@ -352,20 +356,6 @@ body {
   text-transform: uppercase;
   font-size: 39px;
   letter-spacing: 2px;
-}
-
-.video-intro h6 {
-  font-size: 23px;
-}
-
-.video-intro p {
-  color: white;
-}
-
-.video-intro h3 {
-  text-transform: uppercase;
-  color: #514298;
-  font-weight: 700;
 }
 
 .section-padding h4 {
@@ -703,6 +693,18 @@ nav.navbar.nav-scroll .navbar-toggle {
   color: white;
   font-size: 22px;
 }
+
+.video-intro h6 {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.video-intro h3 {
+  text-transform: uppercase;
+  color: #514298;
+  font-weight: 700;
+}
+
 .video-intro .cont i {
   width: 40px;
   height: 40px;
@@ -723,6 +725,33 @@ nav.navbar.nav-scroll .navbar-toggle {
   margin-top: -30px;
 }
 
+.video-intro img {
+  width: 30%;
+}
+
+.breath {
+  color: #5abf95;
+}
+
+.breath p {
+  color: #5abf95;
+}
+
+.think {
+  color: #f15f4e;
+}
+
+.think p {
+  color: #f15f4e;
+}
+
+.execute {
+  color: #514298;
+}
+
+.execute p {
+  color: #514298;
+}
 /* -------------------------------------------------------
                      Portfolio 
 -------------------------------------------------------- */
