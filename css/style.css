@@ -213,7 +213,12 @@ body {
 
 .load {
     display:none;
-    margin-bottom: 5px;
+    background-color: #ebf4fd;
+}
+
+.blueload {
+    background-color: #ebf4fd;
+ 
 }
 
 .logo-header {
@@ -830,6 +835,12 @@ nav.navbar.nav-scroll .navbar-toggle {
 color: #fff;
   background-color: #e6322b;
   border-color: #e6322b;
+}
+
+.portfolio h3 {
+  text-transform: uppercase;
+  color: #514298;
+  font-weight: 700;
 }
 
 /* -------------------------------------------------------
