@@ -62,7 +62,8 @@ a, a:hover, a:focus{
 /* ----- vertical middle align ----*/
 
 .v-middle {
-    padding-top: 14%;
+    padding-top: 10%;
+    position: absolute;
 }
 
 /* ----- Clear-fix ----*/
