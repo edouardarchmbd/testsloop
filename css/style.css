@@ -252,7 +252,7 @@ body {
 #block1 {
   background-color: #514298;
   border-radius: 6px;
-  padding: 30px 50px 25px 50px;
+  padding: 30px 40px 25px 40px;
   color: white;
   font-weight: 400;
 }
@@ -260,21 +260,21 @@ body {
 #block2 {
   background-color: #5abf95;
   border-radius: 6px;
-  padding: 30px 50px 25px 50px;
+  padding: 30px 40px 25px 40px;
   color: white;
 }
 
 #block3 {
   background-color: #f15f4e;
   border-radius: 6px;
-  padding: 30px 50px 25px 50px;
+  padding: 30px 40px 25px 40px;
   color: white;
 }
 
 #block4 {
   background-color: #514298;
   border-radius: 6px;
-  padding: 30px 50px 25px 50px;
+  padding: 30px 40px 25px 40px;
   color: white;
 
 }
