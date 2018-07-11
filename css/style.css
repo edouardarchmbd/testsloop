@@ -100,6 +100,29 @@ body {
   background-color: #ebf4fd;
 }
 
+.section-padding-sloop {
+  padding-top: 50px;
+  padding-right: 0px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+  background-color: #ebf4fd;
+}
+
+.background-scdg {
+  position: relative;
+  /*background-attachment: fixed;*/
+  background-size: cover;
+
+  overflow: hidden;
+  margin: 0 auto;
+  background-image:url(../img/scdg.png);
+  background-repeat:no-repeat;
+}
+
+.section-padding-sloop p {
+  color: white;
+}
+
 .section-padding-contact {
   padding-top: 100px;
   padding-right: 0px;
