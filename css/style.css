@@ -591,7 +591,7 @@ nav.navbar.nav-scroll .navbar-toggle {
                      Header
 -------------------------------------------------------- */
 .header {
-  height: 100vh;
+  height: 90vh;
   position: relative;
   /*background-attachment: fixed;*/
   background-size: cover;
